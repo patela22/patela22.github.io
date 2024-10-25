@@ -1,9 +1,7 @@
-/* Custom Fonts */
 body {
   font-family: Arial, sans-serif;
 }
 
-/* Color Scheme */
 body {
   background-color: #f0f0f0;
   color: #333;
@@ -19,7 +17,6 @@ nav a:hover {
   text-decoration: underline;
 }
 
-/* Layout Adjustments */
 img {
   max-width: 100%;
   height: auto;
